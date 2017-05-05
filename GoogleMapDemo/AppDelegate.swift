@@ -12,7 +12,7 @@ import GooglePlaces
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-let GoogleMapAPIkey = "AIzaSyCZSmP20IMk6eVsD1-T0_k5-H4Lreokzc4"
+let GoogleMapAPIkey = ""
     var window: UIWindow?
 
 
